@@ -1,12 +1,12 @@
-🧩 Episodes Modal for series/TV
-✅ Improved watched episode tracking
-🧠 Smarter Continue Watching memory
+🧩 Episodes Modal for series/TV  
+✅ Enhanced tracking of watched episodes  
+🧠 More intelligent memory for Continue Watching  
 
-🏠 Homepage:
-• New scrollable Continue Watching section
-• Refined card design (hover/focus/removal)
-• Instant remove from history support
+🏠 Homepage:  
+• Scrollable Continue Watching section introduced  
+• Polished card design (hover, focus, removal)  
+• Instant removal from history functionality  
 
-🎨 Style fixes + proper URL types for better consistency
+🎨 Style adjustments and consistent URL formatting  
 
-⚡ CineWhirl has officialled exited BETA and is fully released to the public safely.
+⚡ CineWhirl is now officially out of BETA and fully launched to the public.
