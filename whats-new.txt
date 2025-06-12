@@ -1,0 +1,10 @@
+🧩 Episodes Modal for series/TV
+✅ Improved watched episode tracking
+🧠 Smarter Continue Watching memory
+
+🏠 Homepage:
+• New scrollable Continue Watching section
+• Refined card design (hover/focus/removal)
+• Instant remove from history support
+
+🎨 Style fixes + proper URL types for better consistency
