@@ -8,3 +8,5 @@
 • Instant remove from history support
 
 🎨 Style fixes + proper URL types for better consistency
+
+⚡ CineWhirl has officialled exited BETA and is fully released to the public safely.
